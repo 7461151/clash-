@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,tv.apple.com
 
 #EMBY
 DOMAIN,shsiis.cloudfisher.cc
-SRC-IP-CIDR,192.168.1.5/32
+SRC-IP-CIDR,192.168.1.8/32
 
 # Netflix
 USER-AGENT,Argo*
