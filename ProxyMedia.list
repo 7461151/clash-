@@ -59,24 +59,12 @@ DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,tik-tokapi.com
 
-DOMAIN,lf16-effectcdn.byteeffecttos-g.com
-DOMAIN,lf16-pkgcdn.pitaya-clientai.com
-DOMAIN-SUFFIX,bytedapm.com
-DOMAIN-SUFFIX,bytegecko-i18n.com
-DOMAIN-SUFFIX,capcut.com
-DOMAIN-SUFFIX,ibyteimg.com
-DOMAIN-SUFFIX,isnssdk.com
-DOMAIN-SUFFIX,sgpstatp.com
-#DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,ttwebview.com
-PROCESS-NAME,com.zhiliaoapp.musically
 
 # YouTube
 USER-AGENT,*youtube*
 USER-AGENT,YouTube*
 USER-AGENT,com.google.ios.youtube*
 DOMAIN-KEYWORD,youtube
-DOMAIN,youtubei.googleapis.com
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
